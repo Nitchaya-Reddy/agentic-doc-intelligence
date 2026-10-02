@@ -1,0 +1,13 @@
+Acme Labs Employee Handbook
+
+Paid Time Off
+Full-time employees receive 20 days of paid vacation per calendar year. Vacation requests longer than five consecutive business days should be submitted at least three weeks in advance.
+
+Remote Work
+Employees may work remotely up to three days per week with manager approval. Teams may designate collaboration days that require in-office attendance.
+
+Security
+Employees must use multi-factor authentication for company systems. Confidential customer information may not be copied to personal cloud storage or personal devices.
+
+Expense Policy
+Business travel expenses require itemized receipts for purchases above $25. Domestic meal expenses are reimbursed up to $70 per day.
